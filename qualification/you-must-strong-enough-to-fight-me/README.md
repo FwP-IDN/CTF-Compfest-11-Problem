@@ -2,4 +2,4 @@
 
 Problem Setter: Febriananda Wida Pramudita
 
-NB: sebenarnya ada fungsi bantuan yaitu `sigaction(SIGSEGV, &action, NULL);`, tapi dari yang solve, gaada yang make XD. Yaudahlah.
+NB: there is a helper code `sigaction(SIGSEGV, &action, NULL);`. But, this problem solver didn't use that helper XD.
